@@ -1,0 +1,25 @@
+{
+  "name": "js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dyamic footer to be generated for js applications with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killerlee1992/STLdevcapmjsfooter.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Sjohnn Tyler Lee <killerlee1992@email.com> (https://www.npmjs.com/~sjohnnlee)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killerlee1992/STLdevcapmjsfooter/issues"
+  },
+  "homepage": "https://github.com/killerlee1992/STLdevcapmjsfooter#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
